@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Meu Primeiro Jogo",
+    "description": "Jogo de aventura feito por mim.",
+    "image": "https://via.placeholder.com/600x300",
+    "dev": [
+      {
+        "name": "DEV v0.1",
+        "date": "24/04/2026",
+        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.1.rar"
+      },
+      {
+        "name": "DEV v0.2",
+        "date": "24/04/2026",
+        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.2.rar"
+      }
+    ],
+    "public": [
+      {
+        "name": "Pública v1.0",
+        "date": "24/04/2026",
+        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/public/v1.0.rar"
+      }
+    ]
+  },
+  {
+    "name": "Jogo de Corrida",
+    "description": "Projeto de corrida com carros.",
+    "image": "https://via.placeholder.com/600x300",
+    "dev": [
+      {
+        "name": "DEV v0.5",
+        "date": "24/04/2026",
+        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/jogo-corrida/dev/v0.5.rar"
+      }
+    ],
+    "public": [
+      {
+        "name": "Pública v1.0",
+        "date": "24/04/2026",
+        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/jogo-corrida/public/v1.0.rar"
+      }
+    ]
+  }
+]

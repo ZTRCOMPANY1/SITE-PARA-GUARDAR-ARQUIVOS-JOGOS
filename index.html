@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meus Jogos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <section id="loginScreen" class="login-screen">
+    <div class="login-card">
+      <h1>Área Restrita</h1>
+      <p>Entre para acessar os jogos</p>
+
+      <input id="username" type="text" placeholder="Usuário">
+      <input id="password" type="password" placeholder="Senha">
+
+      <button onclick="login()">Entrar</button>
+
+      <span id="loginError"></span>
+    </div>
+  </section>
+
+  <main id="app" class="hidden">
+    <header>
+      <div>
+        <h1>Biblioteca de Jogos</h1>
+        <p>Versões DEV e públicas dos meus jogos</p>
+      </div>
+
+      <button onclick="logout()" class="logout">Sair</button>
+    </header>
+
+    <section id="gamesContainer" class="games-container"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
