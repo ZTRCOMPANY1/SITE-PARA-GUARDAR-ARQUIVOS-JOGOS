@@ -1,25 +1,25 @@
 [
   {
-    "name": "Meu Primeiro Jogo",
+    "name": "Race Low Poly",
     "description": "Jogo de aventura feito por mim.",
     "image": "https://via.placeholder.com/600x300",
     "dev": [
       {
-        "name": "DEV v0.1",
+        "name": "DEV v0.001",
         "date": "24/04/2026",
         "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.1.rar"
       },
       {
-        "name": "DEV v0.2",
+        "name": "DEV v0.002",
         "date": "24/04/2026",
         "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.2.rar"
       }
     ],
     "public": [
       {
-        "name": "Pública v1.0",
-        "date": "24/04/2026",
-        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/public/v1.0.rar"
+        "name": "Pública N/A",
+        "date": "N/A",
+        "download": "indisponivel"
       }
     ]
   },
