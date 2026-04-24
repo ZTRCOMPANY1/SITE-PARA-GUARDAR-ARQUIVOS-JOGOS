@@ -47,7 +47,7 @@ function showApp() {
 
 async function loadGames() {
   try {
-    const response = await fetch("games.json");
+    const response = await fetch("./games.json");
     const games = await response.json();
 
     gamesContainer.innerHTML = "";
