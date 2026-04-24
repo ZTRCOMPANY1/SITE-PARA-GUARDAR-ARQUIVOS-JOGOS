@@ -87,8 +87,8 @@ function createVersionCard(title, versions) {
       <div class="version-item">
         <strong>${version.name}</strong>
         <span>${version.date}</span>
-        <a class="download-btn" href="${version.download}" download>
-          Baixar .RAR
+        <a class="download-btn" href="${version.download}">
+          ${version.download.includes(".rar") ? "Baixar .RAR" : "Ver status"}
         </a>
       </div>
     `;
