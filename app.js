@@ -1,4 +1,4 @@
-const AUTH_JSON_URL = "https://github.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/blob/main/auth.json";
+const AUTH_JSON_URL = "https://raw.githubusercontent.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/main/auth.json";
 
 const loginScreen = document.getElementById("loginScreen");
 const app = document.getElementById("app");
