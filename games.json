@@ -6,13 +6,23 @@
     "dev": [
       {
         "name": "DEV v0.001",
-        "date": "24/04/2026",
-        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.1.rar"
+        "date": "19/04/2026",
+        "download": "https://github.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/raw/main/dev/V 0.001 (DEV).rar"
       },
       {
         "name": "DEV v0.002",
+        "date": "20/04/2026",
+        "download": "https://github.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/raw/main/dev/V 0.002 (DEV).rar"
+      },
+      {
+        "name": "DEV v0.003",
+        "date": "23/04/2026",
+        "download": "https://github.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/raw/main/dev/V 0.003 (DEV).rar"
+      },
+      {
+        "name": "DEV v0.004",
         "date": "24/04/2026",
-        "download": "https://github.com/SEU-USUARIO/REPO-JOGOS/raw/main/meu-primeiro-jogo/dev/v0.2.rar"
+        "download": "https://github.com/ZTRCOMPANY1/SITE-ACESSOS-JOGOS-e-ARQUIVOS/raw/main/dev/V 0.004 (DEV).rar"
       }
     ],
     "public": [
